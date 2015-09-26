@@ -2,9 +2,3 @@ This is first sentence
 This is the second sentence
 This is third sentence
 This is fourth sentence
-This is fifth
-This is sixth
-This is seventh
-This is eight
-This is 9th
-This is 10th
